@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    color:aqua;
+}
+
+ul li a {
+    color: orange;
+}
+
+ol li a {
+    color: green;
+}
+
+#p1 {
+    color:blueviolet;
+}
+
+.p2 {
+    color:aquamarine;
+}
